@@ -4,7 +4,7 @@ author: "ycauthen"
 date: "7/9/2020"
 output: html_document
 ---
-Here is the cheatsheet [pdf](../random/conda-cheatsheet.pdf)
+Here is the cheatsheet [pdf](random/conda-cheatsheet.pdf)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
