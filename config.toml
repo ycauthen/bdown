@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
 languageCode = "en-us"
-title = "Influencer"
+title = "Tommy Test Page"
 theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6
@@ -34,32 +34,32 @@ paginate = 6
 [menu]
     
   [[menu.main]]
-  name = "About"
+  name = "Cool"
   URL = "book"
   weight = 1
   
   [[menu.main]]
-  name = "Chapter"
+  name = "Real"
   URL = "chapter"
   weight = 2
   
   [[menu.main]]
-  name = "Reviews"
+  name = "Estate"
   URL = "review"
   weight = 3
-  
+  S
   [[menu.main]]
-  name = "Author"
+  name = "Facts"
   URL = "author"
   weight = 4
   
   [[menu.main]]
-  name = "Blog"
+  name = "Dot"
   URL = "blog"
   weight = 5
   
   [[menu.main]]
-  name = "Contact"
+  name = "Com"
   URL = "contact"
   weight = 6
 
