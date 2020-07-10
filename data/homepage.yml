@@ -1,12 +1,11 @@
 ########################## Banner #############################
 banner:
-  enable : true
-  writter : "George Stewart"
-  title : "The Man in the <br>Glass House"
+  enable : false
+  writter : "Tommy Test"
+  title : "Test Site"
   image : "images/about/book.png"
   content : "We work with our partners to streamline project plans that don’t just deliver on
             product perfection, but also delivers on time."
-  price : "14.99"
 
 ######################## Book Preview ##########################
 preview:
@@ -162,8 +161,8 @@ devices:
 author:
   enable : true
   image : "images/about/home-1.jpg"
-  name : "Yasin Arafat"
-  designation : "A technical Writer"
+  name : "Tommy Test Page"
+  designation : "Turbo Cuck"
   content : "
   Do you want to be even more successful? Learn to love learn and growth. The more efort you put into improving your skills, the bigger the payoff you will get.
 
@@ -199,7 +198,7 @@ awards:
 ############################# Other books ###############################
 otherBooks:
   enable : true
-  title : "Others books by the author"
+  title : "Big Boi Real Estate Mogul"
   subtitle : "Laboriosam eos aperiam excepturi accusamus velit repudiandae sit rem incidunt, similique
             facere quas blanditiis."
   book:
